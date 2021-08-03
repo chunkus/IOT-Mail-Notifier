@@ -6,9 +6,9 @@ older less technologically advanced systems and appliances such as a simple mail
 upgraded or more modernized using low-cost platforms.
 
 # Contents
-- [1 Project Scope](#1 Project-Scope)
+- [1 Project Scope](#1-project-scope)
 	* [1.1 Problem statement](#1.1-Project-Scope)
-	* [1.2 Use Case](#1.2-Use-Case)
+	* [1.2 Use Case](#1.2 Use-Case)
 - [](#)
 	* [](#)
 	* [](#)
