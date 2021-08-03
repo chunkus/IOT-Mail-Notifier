@@ -152,7 +152,7 @@ output sensor data sent via WIFI of the microcontroller, and display the outputs
 mobile application. Blynk’s mobile app would also have the ability to send a notification to the
 user’s device in the form of a push notification or email via their API and provided libraries.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure_5.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure%205.png)
 
 The reason a Blynk cloud server was use, is since Blynk provides an open-source IOT stack [6]
 that is relatively well supported, has a dedicated mobile application, and is simple and quick to
