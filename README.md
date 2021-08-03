@@ -138,7 +138,7 @@ service. Although email can be used, the option of using a push notification is 
 to being notified and also has the advantage of being local and faster relative to an email
 notification.
 
-![image](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-4.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%204.png)
 
 The method of approach used for the design of this prototype module is to use the three main
 sensors to poll the environment for any changes that would occur. The environment in this case
@@ -152,7 +152,7 @@ output sensor data sent via WIFI of the microcontroller, and display the outputs
 mobile application. Blynk’s mobile app would also have the ability to send a notification to the
 user’s device in the form of a push notification or email via their API and provided libraries.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure%205.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%205.png)
 
 The reason a Blynk cloud server was use, is since Blynk provides an open-source IOT stack [6]
 that is relatively well supported, has a dedicated mobile application, and is simple and quick to
@@ -181,7 +181,7 @@ Figure 8 illustrates how the serial monitor would display the output of the sens
 had been detected for each sensor. It however shows two occasions when the sound had been
 detected by displaying a message that had been programmed.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-8.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%208.png)
 
 
 Figure 9 illustrates the output of the serial monitor when all the sensors had detected a change,
@@ -189,7 +189,7 @@ and consequently sent the notification message to the cloud server. During the t
 helpful to know when the message had been successfully sent and at what point as to verify that
 the sensors where working, and that a connection to the server had been established.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-9.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%209.png)
 
 ### 3.4 Blynk Dashboard Configuration
 The Blynk app allows the sensor data to be monitored through the use of a virtual display, and
@@ -204,7 +204,7 @@ notification drop down menu of their phone. As an inherent feature of the androi
 menu, the time at which the notification was received can also be viewed, which is useful in the
 case of a mail notifying device since it allows the user to know when their mail got delivered.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-11.png)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%2011.png)
 
 ### 3.5 Analysis and Design Issues
 The design functions as intended however, there are some issues that were experienced during
