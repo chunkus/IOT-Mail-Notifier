@@ -7,10 +7,10 @@ upgraded or more modernized using low-cost platforms.
 
 # Contents
 - [1 Project Scope](#1-project-scope)
-	* [1.1 Problem statement](#1.1-project-scope)
+	* [1.1 Problem statement](##1.1-problem-statement)
 	* [1.2 Use Case](#1.2-use-case)
-		-[1.2.1 Case Example 1](#1.2.1-case-example-1)
-		-[1.2.1 Case Example 2](#1.2.2-use-case)
+	- [1.2.1 Case Example 1](#1.2.1-case-example-1)
+	- [1.2.1 Case Example 2](#1.2.2-use-case)
 		 
 
 - [2 Requirement Analysis](#2-requirement-analysis)
