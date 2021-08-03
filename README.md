@@ -138,7 +138,7 @@ service. Although email can be used, the option of using a push notification is 
 to being notified and also has the advantage of being local and faster relative to an email
 notification.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-4.png)
+![image](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-4.png)
 
 The method of approach used for the design of this prototype module is to use the three main
 sensors to poll the environment for any changes that would occur. The environment in this case
