@@ -196,7 +196,7 @@ The Blynk app allows the sensor data to be monitored through the use of a virtua
 also has the functionality of allowing the use to choose their desired method of receiving the notification as illustrated in Figure 10 with the addition of also being able to customize how the
 notification is pushed to the device.
 
-![](https://github.com/chunkus/IOT-Mail-Notifier/tree/main/Figures/Figure-10.jpg)
+![](https://github.com/chunkus/IOT-Mail-Notifier/blob/main/Figures/Figure%2010.jpg)
 
 Figure 11 illustrated the way in which the push notification is received by the user on an Android
 device, and shows the message that is seen from both the dedicated Blynk app, and from the
